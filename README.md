@@ -2,6 +2,11 @@
   Save Restricted Content Bot v3
 </h1>
 
+
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pradeepkhadaw/Srcdevgagan)
+                     
+
 The Save Restricted Content Bot is a stable Telegram bot developed by devgagan and TEAM SPY. It enables users to retrieve restricted messages from Telegram channels and groups, offering features such as custom thumbnail support and the ability to upload files up to 4GB. Additionally, the bot supports downloading videos from platforms like YouTube, Instagram, and Facebook, along with over 100 other sites
 
 [Telegram](https://t.me/save_restricted_content_bots) | [See Recent Updates](https://github.com/devgaganin/Save-Restricted-Content-Bot-V2/tree/v3#updates)
